@@ -1,0 +1,12 @@
+{{ define "main" }}
+
+      {{ .Content }}
+      <br>
+          {{ range .Pages.ByDate.Reverse }}
+              <div class=post>
+                   <h3><a href="{{ .Permalink }}"> {{ .Params.Title }} </a></h3>
+                   <span class=post-description> {{ .Params.Description | markdownify }} </span>
+              </div>
+          {{ end }}
+       
+{{ end }}

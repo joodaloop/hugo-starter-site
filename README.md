@@ -1,24 +1,18 @@
 # hugo starter site
 
-I build lots of Hugo sites, around 3 sites per month. And I don't like the default site layout that Hugo creates when you run `hugo new site`. It doesn't have all the necessary elements to get started with, and has some you don't really need. 
-
-Most importantly, it's useful for a site to have placeholder posts to work with.
-
 Created with help from Sebastian Pech's list of [Hugo best practices](https://github.com/spech66/hugo-best-practices).
 
-defaults write com.apple.dock autohide -bool true && defaults write com.apple.dock autohide-delay-float 0 && defaults write com.apple.dock autohide-time-modifier-float 0 && killall Dock
+I build lots of Hugo sites, around 3 sites per month. And I don't like the default site layout that Hugo creates when you run `hugo new site`. It doesn't have all the necessary elements to get started with, and has some you don't really need. 
+
+Most importantly, it's useful for a site to have placeholder posts to work with. The goal is to be able to copy the folder, open it up, and start working on design immediately. without having to worry about folder structure, necessary files, and where my stylesheets and fonts go. 
 
 
-## Main features:
+## Features:
 - Header and footer partials
 - Templates for single, list, taxonomy pages, that use the `baseof` template correctly. 
 - CSS, JS, and fonts all stored within the `static` directory
 - Two different kinds of posts, to test different content formats
-
-
-## Other features:
-
-- Social media/preview cards
+- Dynamic social media/preview cards
 - Deafult archetype with all the essential front-matter
 - 404 page
 - RSS feed (index.xml)

@@ -1,5 +1,5 @@
 # for MacOS
-# .DS_Store
+.DS_Store
 
 # Generated files by hugo
 /public/

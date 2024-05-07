@@ -1,5 +1,5 @@
 ---
-title: Statstics 101
+title: Statistics 101
 tags: [math]
 ---
 

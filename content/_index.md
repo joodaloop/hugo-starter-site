@@ -19,14 +19,15 @@ I create brand new Hugo sites every time I start a new project. They don't have 
 
 #### I wanted something that I could clone, open, and start editing instantly.
 
-– No messing around with layout pages formats. The essential files (including a [taxonomy template](/tags/internet)) are already there, ready to be edited.
+- No messing around with layout pages formats. The essential files (including a [taxonomy template](/tags/internet)) are already there, ready to be edited.
 
-– No pasting in Lorem Ipsum placeholders, example posts already exist.
+- No pasting in Lorem Ipsum placeholders, example posts already exist.
 
-– An intuitive folder structure for stylesheets, scripts, fonts, media, and content. There's a place for everything, and the essential things are already in their place. 
+- An intuitive folder structure for stylesheets, scripts, fonts, media, and content. There's a place for everything, and the essential things are already in their place. 
 
-– Dynamic meta tags, social media cards, and a simple config file for the whole site. 
+- Dynamic meta tags, social media cards, and a simple config file for the whole site. 
+
+- Render hook example for link elements that makes sure that external links open in a new tab.
 
 *I've tried to follow the Hugo best practices as much as possible, but make some modifications for the sake of efficiency and ergonomics.*
-
 

@@ -1,6 +1,7 @@
 ---
 title: Blogging is still an unsolved problem
-tags: [internet]
+description: Hmmmm
+tags: [internet, cool shit]
 ---
 
 The job of serving text over the internet, with complete control over structure and representation, has yet to be accomplished as well as it theoretically could be. 

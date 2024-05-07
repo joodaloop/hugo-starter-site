@@ -1,7 +1,7 @@
 baseURL = "https://hugo-starter-site.netlify.app"
 languageCode = "en-us"
 title = "Hugo Starter Site"
-copyright = "No copyright."
+copyright = "Copyright: don't be a thief."
 
 rssLimit = 20
 staticDir = "static"

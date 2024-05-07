@@ -1,0 +1,15 @@
+{{ define "main" }}
+
+      {{ .Content }}
+      <br>
+          {{ range .Pages.ByDate.Reverse }}
+              <div class=post>
+                   <h3><a href="{{ .Permalink }}"> {{ .Params.Title }} </a></h3>
+                    {{ range $i, $e := .Params.tags -}}
+                        {{- if $i -}} &nbsp; &nbsp;  {{ end -}}
+                        <a class=tag-link href='/tags/{{ . | urlize }}'>{{ $e  }}</a>
+                    {{- end -}}
+              </div>
+          {{ end }}
+       
+{{ end }}

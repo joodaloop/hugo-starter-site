@@ -1,3 +1,5 @@
+### a better version of this starter is now available at [https://github.com/joodaloop/hugoloop](https://github.com/joodaloop/hugoloop)
+
 # hugo starter site
 
 Created with help from Sebastian Pech's list of [Hugo best practices](https://github.com/spech66/hugo-best-practices).

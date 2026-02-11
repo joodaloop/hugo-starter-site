@@ -1,0 +1,10 @@
+island: "A"
+position: [1500, 390]
+content: "You’re looking to procure an innovative product or service directly from specific providers. Let’s think through what type of contract is appropriate.\n\n*Which fits the situation best?*"
+options:
+  - to: "procurement-contracting"
+    text: "You clearly know your requirements, the technology is relatively mature, and you want to incentivize efficiency and cost control. Explore _fixed-cost contracts._"
+  - to: "procurement-contracting"
+    text: "The technology is cutting-edge and highly uncertain. You want to encourage risk-taking, even if it requires more spending and careful monitoring. Explore _cost-plus contracts._"
+  - to: "milestone-payment"
+    text: "You can define clear, intermediate milestones that innovators must meet to continue receiving funding, ensuring progress toward your final goal. The providers would likely benefit from receiving funding payments before they achieve the end product."

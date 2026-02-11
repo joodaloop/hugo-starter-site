@@ -1,0 +1,10 @@
+island: "A"
+position: [1485, 93]
+content: "You’re looking to help fund the production of an innovative product or service.\n\n*Let’s decide how to do it:*"
+options:
+  - to: "advance-market-commitment"
+    text: "Commit to *buying a future product or service* at a specified price or volume. Keep in mind that AMCs require you to define in advance exactly what characteristics the product must have to be eligible. Explore _Advance Market Commitments._"
+  - to: "per-unit-subsidies"
+    text: "Subsidize *each unit through the tax code or direct payments*, lowering the cost for firms or consumers. Explore _Tax Credits and Output Subsidies._"
+  - to: "procurement-contracting"
+    text: "*We know precisely what we want the product to be, and only a few firms or organizations could realistically invent or supply it. *We should contract with these firms directly. Explore _contracts_."

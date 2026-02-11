@@ -1,0 +1,12 @@
+island: "C"
+position: [1402.0593314877437, 944.6596957149342]
+content: "You can articulate the exact breakthrough you want to make happen, and you have a good sense of the teams best positioned to make progress on it.\n\n*Who is best suited to carry out this work?*"
+options:
+  - to: "rd-contracts"
+    text: "*Private sector companies* — Businesses or private organizations are best positioned to achieve this breakthrough. Explore _contracts for R&D._"
+  - to: "research-grants"
+    text: "*People at universities* — The people who can do this work are mainly at universities. The problem generally isn’t sensitive, classified, or marked with security concerns. Explore_ research grants_."
+  - to: "rd-government-labs"
+    text: "*Government labs* — This research requires security, secrecy, or specialized government facilities. Explore _in-house R&D._"
+  - to: "coordinated-research-program"
+    text: "*Mixed teams in need of coordination* — The work will involve collaboration across academia, industry, and government, and you’ll need a skilled program manager to coordinate those efforts. Explore _coordinated research program._"

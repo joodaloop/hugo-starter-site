@@ -1,0 +1,10 @@
+island: "A"
+position: [1215.0214592274676, 268.58369098712444]
+content: "You want to encourage the development of a specific product or service.\n\n*Which of the following describes the situation best?*"
+options:
+  - to: "fund-innovative-product"
+    text: "*We think a wide set of products could meet our goals and we don’t know exactly which organization is best positioned to deliver.* We want to encourage competition among them or inspire broader innovation. Explore _output subsidies_."
+  - to: "loan-subsidies"
+    text: "*The main barrier to producing and scaling this product is upfront capital.* Firms know how to produce it, but they lack the resources to scale. Explore _loan subsidies._."
+  - to: "procurement-contracting"
+    text: "*We know precisely what we want the product to be, and only a few firms or organizations could realistically invent or supply it. *We should contract with these firms directly. Explore _contracts_."

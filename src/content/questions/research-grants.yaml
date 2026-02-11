@@ -1,0 +1,10 @@
+island: "C"
+position: [1151.2626896665174, 1147.4798220732766]
+content: "It sounds like investing in research grants is the right approach!\n\n*What’s your main priority?*"
+options:
+  - to: "project-based-research-grants"
+    text: "*Project-based grants* — We want to support many scientists within a field to pursue well-defined projects, as it's unclear exactly who will achieve a breakthrough. Explore _project-based grants._"
+  - to: "person-based-research-grants"
+    text: "**Person-based grants *— we want to empower exceptional individuals with the freedom to pursue their most promising ideas with minimal oversight. Explore _person-based grants._"
+  - to: "government-research-lab-joint-venture"
+    text: "*Government-research lab joint venture* — We anticipate needing ongoing coordination and collaboration with government experts throughout the research process. Explore _government-research lab joint venture._"

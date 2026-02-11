@@ -1,0 +1,10 @@
+island: "C"
+position: [1469, 1143]
+content: "It sounds like in-house R&D at government labs is the best match for your goal.\n\nThis method allows you to build sustained expertise in a specific domain by maintaining direct control over the research agenda and fostering institutional memory. This approach works particularly well for sensitive areas that require specialized facilities or continuous investigation, where the goal is steady scientific progress rather than disruptive breakthroughs, and where you want to ensure research continuity independent of external market or funding pressures.\n\n*Which of the following describes your situation best?*"
+options:
+  - to: "coordinated-research-program"
+    text: "*Diffuse technical challenges* — Your problem involves complex or wide-ranging technical challenges that existing organizations aren't currently addressing well. Explore _coordinated research program._"
+  - to: "intramural-science"
+    text: "*Long-term specialized research* — You want to build sustained expertise and maintain direct control over research in a sensitive or specialized area. Explore _intramural R&D ._"
+  - to: "national-labs-within-intramural-labs"
+    text: "*Specialized facilities and flexible collaboration* — You need advanced, specialized facilities and deep expertise, but still want the flexibility to collaborate with academia and industry. Explore _national labs._"

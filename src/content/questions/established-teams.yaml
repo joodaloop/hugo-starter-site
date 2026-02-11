@@ -1,0 +1,12 @@
+island: "E"
+position: [854, 1635]
+content: "You’ve decided to support established teams to do research in this area with additional resources.\n\n*How should we invest these resources?*"
+options:
+  - to: "project-based-research-grants"
+    text: "*Project-based grants* — We want to support a broad group researchers undertaking a specific projects because it’s not yet clear which teams are positioned to make a breakthrough."
+  - to: "rd-government-labs"
+    text: "*In-house R&D* — Government labs already employ the best researchers for this work, or we want to focus on research requiring specialized facilities, secrecy, or security."
+  - to: "person-based-research-grants"
+    text: "*Person-based grants* — We want to invest in outstanding superstar researchers, giving them maximum freedom and minimal bureaucracy to explore promising new directions."
+  - to: "rd-tax-credits"
+    text: "**Tax incentives* — Provide broad incentives for research and development through the tax code, lowering the cost for firms investing in innovation."

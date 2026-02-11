@@ -1,0 +1,10 @@
+island: "C"
+position: [1170, 950]
+content: "Let’s fund some applied research!\n\n*Who will primarily perform this research?*"
+options:
+  - to: "coordinated-research-program"
+    text: "*Mixed teams* — Capable researchers are spread across academia, industry, and government. You’ll likely need a skilled program manager to coordinate across different institutions. Explore _coordinated research program._"
+  - to: "rd-government-labs"
+    text: "*Government teams* — The research needs to be done by government labs, perhaps because of security, sensitivity, or specialized facilities. Explore _in-house R&D_."
+  - to: "research-grants"
+    text: "*People at universities* — Researchers are mainly in academia, and there aren’t significant security concerns or sensitivity issues with working on this problem. Explore _applied research grants_."

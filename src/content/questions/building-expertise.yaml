@@ -1,0 +1,8 @@
+island: "G"
+position: [460, 1710]
+content: "You’re focusing on building expertise in a particular field.\n\n*Where does it make the most sense to develop this expertise?*"
+options:
+  - to: "academic-fieldbuilding"
+    text: "*Academic settings* — Universities or research institutions make sense to house and support the new field. Explore _academic fieldbuilding_."
+  - to: "non-academic-fieldbuilding"
+    text: "*Non-academic settings* — It’s more effective to cultivate expertise outside academia, such as in industry, government, or nonprofits. Explore _non-academic fieldbuilding_."

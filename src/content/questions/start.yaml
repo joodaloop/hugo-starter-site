@@ -1,0 +1,8 @@
+island: "I"
+position: [282, 926]
+content: "Which one sounds more like your goal?"
+options:
+  - to: "specific-challenge"
+    text: "*I have a specific challenge or goal in mind. *_Example: \"We need to develop a safe and effective vaccine against COVID-19.\"_"
+  - to: "innovation-general-area"
+    text: "*I want to encourage more innovation in a broad field. *_Example: \"We want to accelerate breakthroughs in quantum computing.\"_"

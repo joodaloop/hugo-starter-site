@@ -1,0 +1,10 @@
+island: "B"
+position: [1300, 760]
+content: "You want to find a solution from a wide range of people and you don't know ahead of time where the best solution might come from.\n\n*Which of the following describes the situation best?*"
+options:
+  - to: "milestone-payment"
+    text: "Our innovation goal is ambitious and *distant from today’s technological frontier*. Providing payments at pre-defined checkpoints along the way could help teams keep momentum and manage risks. Explore _milestone payments._"
+  - to: "absolute-prize"
+    text: "*We can *clearly define a specific target or threshold that participants must meet* to win. Explore _absolute prizes._"
+  - to: "relative-prize"
+    text: "We want to *encourage teams to compete and reward the best performance*, even if the exact threshold isn't clear yet. Explore _relative prizes._"

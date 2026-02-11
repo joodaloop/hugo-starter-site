@@ -1,0 +1,10 @@
+island: "J"
+position: [530, 823.0000000000001]
+content: "Now let’s clarify your specific challenge a bit more.\n\nHow precisely can you define the output or solution you're looking for?"
+options:
+  - to: "specific-product"
+    text: "*We're focused on developing a product or service that people will actually use. *Producing this good or service is central to our goal. We can specify what success means, even if the exact path isn't clear yet."
+  - to: "poc-idea"
+    text: "*We're aiming to create an early-stage prototype, insight, proof of concept, or clearly defined idea.* Even though our exact approach isn’t set, we know exactly what success will look like."
+  - to: "clear-problem-unclear-solution"
+    text: "*We don't yet know exactly what the final solution will look like. *The solution could take many forms, and we’re open to possible solutions."

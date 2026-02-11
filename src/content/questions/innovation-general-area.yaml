@@ -1,0 +1,8 @@
+island: "H"
+position: [387.7588705726153, 1141.136576865211]
+content: "Great! You want to foster innovation in a general area of interest.\n\n*Where does it make the most sense to develop this expertise?*"
+options:
+  - to: "established-teams"
+    text: "*Yes*, there are established teams that can make progress with additional resources."
+  - to: "building-expertise"
+    text: "*No*, there aren’t clearly established teams yet, or the teams that exist aren’t the right ones to make progress. Developing new expertise or talent in this area is one of our main goals."

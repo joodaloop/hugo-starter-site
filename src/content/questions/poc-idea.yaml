@@ -1,0 +1,8 @@
+island: "L"
+position: [900, 800]
+content: "You’re aiming for a specific breakthrough, like a clear idea or prototype.\n\n*Can you identify the people or teams most likely to contribute to this breakthrough?*"
+options:
+  - to: "uncertain-wide-range"
+    text: "*No*, it's difficult to pinpoint who might develop the best solution. We want solutions to come from a wide range of teams."
+  - to: "exact-breakthrough-teams"
+    text: "*Yes*, we know exactly who is best positioned to make progress — whether in academia, industry, or government."

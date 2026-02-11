@@ -1,0 +1,8 @@
+island: "K"
+position: [758, 994]
+content: "You have a clear problem to solve, but the solution is unclear and could take multiple forms.\n\n*Are there already promising people or established teams that could make progress with extra resources?*"
+options:
+  - to: "fund-applied-research"
+    text: "*Yes *— let's explore _applied research funding._"
+  - to: "building-expertise"
+    text: "*No — we should start by building expertise or training new talent. *Right now, the priority is to develop a stronger foundation in this area through _fieldbuilding_."
